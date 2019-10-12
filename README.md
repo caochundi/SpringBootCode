@@ -1,1 +1,2 @@
-# repository
+# SpringBootCode
+ 本仓库路径存放springboot项目代码，第一个项目是基于springboot实现的微信公众号后台接口
